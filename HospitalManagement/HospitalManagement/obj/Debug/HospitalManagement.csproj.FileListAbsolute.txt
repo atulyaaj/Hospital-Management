@@ -1,0 +1,17 @@
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementPresentation.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementEntity.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementBusiness.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementData.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementPresentation.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementEntity.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementBusiness.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagementData.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.SuggestedBindingRedirects.cache
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+C:\Atulya\C#\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb

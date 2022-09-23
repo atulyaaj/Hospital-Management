@@ -1,0 +1,6 @@
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\bin\Debug\HospitalManagementEntity.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\bin\Debug\HospitalManagementEntity.pdb
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.csproj.AssemblyReference.cache
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.csproj.CoreCompileInputs.cache
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.dll
+C:\Atulya\C#\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.pdb
